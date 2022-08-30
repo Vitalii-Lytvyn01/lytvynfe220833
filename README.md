@@ -1,5 +1,11 @@
 DEMO: https://vitalii-lytvyn01.github.io/lytvynfe220833/
 
+In order to run tests you need to:
+
+1.Download the code from repository
+2.Run 'npm install' command in the terminal to install necessary packages.
+3.Run 'npm run test' command to run through tests.
+
 ## Available Scripts
 
 In the project directory, you can run:
